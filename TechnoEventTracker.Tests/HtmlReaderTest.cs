@@ -7,8 +7,8 @@ public class HtmlReaderTest
     [Fact]
     public async Task Test1()
     {
-        var reader = new HtmlReader();
-        var list = await reader.ReadAsync("https://www.radion.amsterdam/program");
+        var reader = new RadionEventRetriever();
+        var list = await reader.RetrieveEventsAsync("https://www.radion.amsterdam/program");
         Assert.NotEmpty(list);
     }
 }

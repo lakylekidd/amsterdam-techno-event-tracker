@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "techno-event-tracker", "techno-event-tracker\techno-event-tracker.csproj", "{28F3B6CA-D1F1-4298-BCB1-43ECF6206F64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoEventTracker", "techno-event-tracker\TechnoEventTracker.csproj", "{28F3B6CA-D1F1-4298-BCB1-43ECF6206F64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoEventTracker.Tests", "TechnoEventTracker.Tests\TechnoEventTracker.Tests.csproj", "{E2DD9BD8-8AB6-4986-AD29-FBE2B8B96368}"
 EndProject
